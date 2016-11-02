@@ -65,7 +65,7 @@
     "online": "/me %%BOTNAME%% sėkmingai paleistas!!",
 
 
-    "welcome": "/me Sveiki atvykę į 舞~ Tнeclaѕѕιc lT ~舞 muzikos kambarį @ Įsileisk į save geros nuotaikos, bei įvairių hitų dozės! Bendrauk su visais, nes čia renkasi tik draugiškiausi žmonės. Malonaus klausymo!",
+    "welcome": "/me Sveiki atvykę į 舞~ Tнeclaѕѕιc lT ~舞 muzikos kambarį @%%NAME%% Įsileisk į save geros nuotaikos, bei įvairių hitų dozės! Bendrauk su visais, nes čia renkasi tik draugiškiausi žmonės. Malonaus klausymo!",
     "welcomeback": "/me @%%NAME%% Sveiki sugrįžę į 舞~ Tнeclaѕѕιc lT ~舞 muzikos kambarį! :)",
     "songknown": "/me @%%NAME%%, daina jau yra grojusi.",
     "timelimit": "/me @%%NAME%%, Jūsų daina buvo ilgesnė nei %%MAXLENGTH%% minutės.",
